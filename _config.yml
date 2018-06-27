@@ -1,0 +1,37 @@
+
+
+title: 张船家的博客
+timezone: UTC
+
+encoding: utf-8
+
+#author:
+#  name: 张船家
+#  email: 519153729@qq.com
+#  weibo: https://weibo.com/u/2674537343
+
+email: 519153729@qq.com
+description: 不会做3D的设计师不是好程序员！
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
