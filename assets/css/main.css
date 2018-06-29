@@ -1157,8 +1157,19 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
-  font-weight: 400;
+  font-size: 120%;
+  font-weight: 600;
+}
+
+.post .post-content .excerpt {
+  /*margin: 0;*/
+  /*margin-right: 10px;*/
+  margin-top: 0;
+  /*margin-bottom:1cm;*/
+  font-size: .9em;
+  background-color: #FFF;
+  /*text-indent: 10px;*/
+  color: #4F4F4F;
 }
 
 .post .post-content .post-title a {
