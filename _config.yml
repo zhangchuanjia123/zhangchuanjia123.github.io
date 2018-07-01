@@ -19,7 +19,7 @@ permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 
 #baseurl: "/zhangchuanjia123.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zhangchuanjia123.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -28,7 +28,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 张船家 # add your name
 author-img: ziji.jpg # add your photo
-about-author: 不会做3D的设计师不是好程序员！ # add description
+about-author: 不会写代码的设计师不是老司机！ # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: zhangchuanjia123 # add your Github handle
@@ -40,6 +40,8 @@ discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
+
+highlighter: rouge
 
 # Build settings
 markdown: kramdown
