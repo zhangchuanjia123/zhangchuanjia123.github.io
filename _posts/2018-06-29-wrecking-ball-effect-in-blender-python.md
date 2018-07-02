@@ -28,7 +28,7 @@ for x in range(1,19): # create Toruses
         bpy.context.object.rigid_body.mass = 0.0001
 {% endhighlight %}
 ---
-###### （如果您对Blender Python完全不熟悉， [请单击此处以了解如何复制粘贴代码.](http://slicker.me/blender/3d_mandelbrot.htm)
+###### （如果您对Blender Python完全不熟悉， [请单击此处以了解此代码.](http://slicker.me/blender/3d_mandelbrot.htm)
   我们需要三组刚体（当您在Blender的对象上打开一个刚体的属性时，Blender将模拟与其它刚体的碰撞）
 
 ### 1.平面
