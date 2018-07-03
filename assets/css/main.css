@@ -1491,3 +1491,67 @@ a.newer-posts:hover {
   }
 }
 
+/* 后面加 */
+
+
+
+a {
+  text-decoration: none;
+  color: #BF1827;
+  }
+.btn, .navigation__item a{
+  padding: 10px 20px;
+  border: 1px solid #BF1827;
+  border-radius: 20px;
+  font-size: .9em;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-shadow: none;
+  color: #BF1827;
+  -webkit-font-smoothing: antialiased;
+}
+
+.pagination__older {
+  margin-left: 1em;
+}
+.btn-small {
+  padding: 8px 12px;
+  font-size: .7em;
+}
+.btn-tertiary {
+  border-color: #999999;
+  color: #999999;
+}
+
+
+.btn_border_small {
+  border: 1px solid #BF1827;
+  border-radius: 20px;
+  padding: 6px 8px;
+  font-size: .8em;
+  margin-left: 10px;
+}
+
+.pagination__page-number {
+  margin: 0;
+  font-size: .8em;
+  color: #999999;
+}
+
+.post-list__meta {
+  display: block;
+  margin: .7em 0 0 0;
+  font-size: .9em;
+  color: #c7c7c7; }
+
+.post-list__meta--date {
+    margin-right: .5em;
+    color: #c7c7c7;
+}
+.post-list__meta--tags {
+    margin-left: .5em;
+}
+.tags {
+  font-size: .8em;
+  color: #c7c7c7;
+}
