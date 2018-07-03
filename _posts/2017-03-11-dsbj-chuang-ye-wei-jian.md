@@ -4,7 +4,7 @@ title: 真正的冒险是一种经过理性分析之后所作出的大胆选择-
 date: 2017-03-11 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: macbook_book.jpg # Add image post (optional)
-tags: [读书笔记, 阅读] # add tag
+tags: [读书笔记] # add tag
 ---
 
 ### 写在前面的话：
