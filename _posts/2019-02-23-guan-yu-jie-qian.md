@@ -7,9 +7,6 @@ img: ledger-1428230_640.jpg # Add image post (optional)
 tags: [生活/想法] # add tag
 ---
 
-![](/assets/img/ledger-1428230_640.jpg)
-
----
 
 俗话说“有借有还，再借不难”，曾经也因为借钱的事情跟朋友兄弟闹的不愉快，后面想想这事情也不能全怪借钱的人，自己又何尝没有责任呢。
 
